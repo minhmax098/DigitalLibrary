@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Quyet Chi/4th year - first semester/Java/Digital Library/sql server jdbc/sqljdbc_6.0/enu/jre8/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Quyet Chi/4th year - first semester/Java/Digital Library/java.xml.bind file/javax.xml.bind.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Quyet Chi/Programming language/Java/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Quyet Chi/Programming language/Java/Jcalendar/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Quyet Chi/Programming language/Java/Jcalendar/lib/jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Quyet Chi/Programming language/Java/Jcalendar/lib/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Asus/Quyet Chi/Programming language/Java/Jcalendar/lib/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
